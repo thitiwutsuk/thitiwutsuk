@@ -48,18 +48,37 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ### 🚀 Personal Projects
 
-**📊 FMCG Weekly Sales Forecasting**
-- Conducted EDA and time-series analysis on 190K+ daily transactions (30 SKUs × 3 channels × 3 regions)
-- Built a demand forecasting pipeline with LightGBM, cutting forecast error by 18% WAPE vs. seasonal-naive baseline via walk-forward CV
+#### 🔄 Empowering Thai Question Answering: Leveraging Context Generation with LLMs
+- **Description:** Proposed a context generation method for Thai Question Answering (QA) using LLMs, significantly outperforming few-shot learning approaches.
+- **Tools/Technologies:** LLM, Prompt Engineering
+- **Key Achievements:**
+  - 🎯 Developed a context generation method that enhanced the accuracy of Thai QA systems
+  - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing
+- 📚 **Project:** NLP System course
 
-**📉 Telco Customer Churn Prediction & Risk Segmentation**
-- Analyzed 7,043 customer records and uncovered a high-risk segment (10.5% of customers, 29% of total churn — 2.8x company average)
-- Built a predictive model correctly catching 74% of actual churners in testing, with 5 retention recommendations
+#### 📊 FMCG Weekly Sales Forecasting
+- **Description:** Conducted EDA and time-series analysis on 190K+ daily transactions (30 SKUs × 3 channels × 3 regions) to identify demand patterns and engineer temporal features for weekly sales behavior.
+- **Tools/Technologies:** Python, LightGBM, Feature Engineering, Time Series Forecasting
+- **Key Achievements:**
+  - 🎯 Engineered a weekly feature set capturing demand patterns from 190K+ transactions
+  - 📈 Cut forecast error by 18% WAPE vs. seasonal-naive baseline via walk-forward CV
+- 📚 **Project:** Personal project
 
-**💰 Retail Dynamic Pricing**
-- Built an end-to-end forecasting-to-pricing pipeline (LSTM vs. SARIMA) on 73K+ retail transactions
-- Beat SARIMA with statistically significant accuracy (MASE 0.709 vs. 0.722, p<0.001)
-- Diagnosed a forecast-accuracy vs. business-outcome tradeoff: the more accurate LSTM performed worse in real inventory simulation (14.4% vs. 11.6% stockout rate)
+#### 📉 Telco Customer Churn Prediction & Risk Segmentation
+- **Description:** Analyzed 7,043 customer records to uncover churn drivers and built a predictive model to flag at-risk customers in advance.
+- **Tools/Technologies:** Python, Logistic Regression, XGBoost, Statistical Analysis
+- **Key Achievements:**
+  - 🎯 Uncovered a high-risk segment (10.5% of customers) driving 29% of total churn — 2.8x the company average
+  - 📈 Built a model correctly catching 74% of actual churners in testing, delivering 5 retention recommendations
+- 📚 **Project:** Personal project
+
+#### 💰 Retail Dynamic Pricing
+- **Description:** Built an end-to-end forecasting-to-pricing pipeline (LSTM vs. SARIMA) on 73K+ retail transactions.
+- **Tools/Technologies:** Python, LSTM, SARIMA, Time Series Forecasting
+- **Key Achievements:**
+  - 🎯 Beat SARIMA with statistically significant accuracy (MASE 0.709 vs. 0.722, p<0.001)
+  - 📈 Diagnosed a forecast-accuracy vs. business-outcome tradeoff — the more accurate LSTM performed worse in real inventory simulation (14.4% vs. 11.6% stockout rate)
+- 📚 **Project:** Personal project
 
 ---
 
