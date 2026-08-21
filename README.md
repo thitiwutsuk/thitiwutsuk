@@ -48,14 +48,6 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ### 🚀 Personal Projects
 
-#### 🔄 Empowering Thai Question Answering: Leveraging Context Generation with LLMs
-- **Description:** Proposed a context generation method for Thai Question Answering (QA) using LLMs, significantly outperforming few-shot learning approaches.
-- **Tools/Technologies:** LLM, Prompt Engineering
-- **Key Achievements:**
-  - 🎯 Developed a context generation method that enhanced the accuracy of Thai QA systems
-  - 📈 Outperformed the few-shot learning approach, showcasing the potential of LLMs in Thai language processing
-- 📚 **Project:** NLP System course
-
 #### 📊 FMCG Weekly Sales Forecasting
 - **Description:** Conducted EDA and time-series analysis on 190K+ daily transactions (30 SKUs × 3 channels × 3 regions) to identify demand patterns and engineer temporal features for weekly sales behavior.
 - **Tools/Technologies:** Python, LightGBM, Feature Engineering, Time Series Forecasting
