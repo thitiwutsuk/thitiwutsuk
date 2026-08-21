@@ -50,74 +50,31 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ### 💼 Work Experience
 
-**LINEMAN WONGNAI** — *Commercial Operations & AI Intern* (Jun 2026 – Jul 2026)
-- Scaled AI-powered food-content QC to 5,000+ stores/day, automating merchant image assessment and improving consistency and scalability of content quality operations
-- Implemented confidence scoring and automated routing to distinguish reliable predictions from uncertain cases, reducing unnecessary manual validation
-- Designed a human-in-the-loop framework to escalate low-confidence predictions for targeted review
-
-**Data Strategy Consulting Club** — *Consultant Analyst, Part Time* (Aug 2025 – Jan 2026)
-- Analyzed SME procurement data and workflows to identify operational bottlenecks and growth opportunities
-- Translated business requirements into data-driven process improvement strategies
-- Identified opportunities to reduce procurement cycle time by 20–30% while improving operational scalability
-
-**Webull Securities (Thailand)** — *Credit Analyst Intern* (Aug 2026)
-- Reviewed financial documents and flagged risk indicators, achieving 100% policy alignment while partnering with Credit, Compliance, and Operations teams to streamline workflows and cut turnaround time by ~20%
-- Conducted credit risk assessments on high-value loan applications, identifying red flags that reduced potential default exposure and strengthened approval decision accuracy
+- **LINEMAN WONGNAI** — *Commercial Operations & AI Intern* (Jun 2026 – Jul 2026) · Scaled AI-powered content QC to 5,000+ stores/day with confidence-based routing and human-in-the-loop review
+- **Data Strategy Consulting Club** — *Consultant Analyst, Part Time* (Aug 2025 – Jan 2026) · Analyzed SME procurement workflows, cutting cycle time by 20–30%
+- **Webull Securities (Thailand)** — *Credit Analyst Intern* (Aug 2026) · Reviewed credit risk on high-value loan applications, achieving 100% policy alignment and ~20% faster turnaround
 
 ---
 
 ### 🚀 Personal Projects
 
-#### 📊 FMCG Weekly Sales Forecasting
-- **Description:** Conducted EDA and time-series analysis on 190K+ daily transactions (30 SKUs × 3 channels × 3 regions) to identify demand patterns and engineer temporal features for weekly sales behavior.
-- **Tools/Technologies:** Python, LightGBM, Feature Engineering, Time Series Forecasting
-- **Key Achievements:**
-  - 🎯 Engineered a weekly feature set capturing demand patterns from 190K+ transactions
-  - 📈 Cut forecast error by 18% WAPE vs. seasonal-naive baseline via walk-forward CV
-
-#### 📉 Telco Customer Churn Prediction & Risk Segmentation
-- **Description:** Analyzed 7,043 customer records to uncover churn drivers and built a predictive model to flag at-risk customers in advance.
-- **Tools/Technologies:** Python, Logistic Regression, XGBoost, Statistical Analysis
-- **Key Achievements:**
-  - 🎯 Uncovered a high-risk segment (10.5% of customers) driving 29% of total churn — 2.8x the company average
-  - 📈 Built a model correctly catching 74% of actual churners in testing, delivering 5 retention recommendations
-
-#### 💰 Retail Dynamic Pricing
-- **Description:** Built an end-to-end forecasting-to-pricing pipeline (LSTM vs. SARIMA) on 73K+ retail transactions.
-- **Tools/Technologies:** Python, LSTM, SARIMA, Time Series Forecasting
-- **Key Achievements:**
-  - 🎯 Beat SARIMA with statistically significant accuracy (MASE 0.709 vs. 0.722, p<0.001)
-  - 📈 Diagnosed a forecast-accuracy vs. business-outcome tradeoff — the more accurate LSTM performed worse in real inventory simulation (14.4% vs. 11.6% stockout rate)
+- 📊 **FMCG Weekly Sales Forecasting** — LightGBM demand forecasting on 190K+ transactions, cutting error by 18% WAPE vs. seasonal-naive baseline
+- 📉 **Telco Customer Churn Prediction & Risk Segmentation** — Flagged a high-risk segment driving 29% of churn; model caught 74% of churners in testing
+- 💰 **Retail Dynamic Pricing** — LSTM vs. SARIMA pricing pipeline on 73K+ transactions; uncovered an accuracy-vs-business-outcome tradeoff
 
 ---
 
 ### 🏆 Awards & Competitions
 
-#### 🥇 1st Place — Government Pension Fund Hackathon 2024
-- **Project:** Wellness Engagement Feature
-- **Key Achievements:**
-  - 🎯 Designed a gamified wellness feature using reward-based mechanics to increase employee engagement
-  - 📈 Analyzed member behavior to optimize feature flows and improve predicted adoption
-
-#### 🥈 2nd Runner-Up — LINE HACK 2025
-- **Project:** AI Fraud Detection
-- **Key Achievements:**
-  - 🎯 Developed an AI-powered fraud detection solution for real-time online scam detection across multiple fraud categories
-  - 📈 Improved detection consistency while reducing manual verification efforts, enabling more scalable fraud case handling
-
-#### 🎯 Finalist — LMWN Junior Capstone Projects
-- **Project:** AI Sales Role-Play Model
-- **Key Achievements:**
-  - 🎯 Developed an AI-powered sales training platform with dynamic AI personas and automated performance evaluation
-  - 📈 Projected to reduce onboarding costs by 20–30%, save 30–50 training hours monthly, and increase practice frequency by 3–5×
+- 🥇 **1st Place** — Government Pension Fund Hackathon 2024 · *Wellness Engagement Feature*
+- 🥈 **2nd Runner-Up** — LINE HACK 2025 · *AI Fraud Detection*
+- 🎯 **Finalist** — LMWN Junior Capstone Projects · *AI Sales Role-Play Model*
 
 ---
 
 ### 🧑‍🤝‍🧑 Leadership & Activities
 
-**CA-ASE Season 5** — *People Team* (Sep 2025 – Apr 2026)
-- Designed a staff development roadmap to enhance employee performance and engagement
-- Managed a national case competition, scaling participation to 3,000+ students (655 teams) across Thailand
+- 🧑‍🤝‍🧑 **CA-ASE Season 5** — *People Team* (Sep 2025 – Apr 2026) · Managed a national case competition reaching 3,000+ students (655 teams) across Thailand
 
 ---
 
