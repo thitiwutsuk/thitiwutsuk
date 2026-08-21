@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Thitiwut Sukthong</h1>
-<h3 align="center">Data Science student | Machine Learning & AI Enthusiast | Bangkok, Thailand</h3>
+<h1 align="lelf">Hi 👋🏼, I'm Thitiwut Sukthong</h1>
+<h3 align="lelf">Data Science student | Machine Learning & AI Enthusiast | Bangkok, Thailand</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thitiwut-sukthong-28a656364/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/thitiwutsuk">
+  <a href="https://github.com/thitiwutsuk?tab=repositories">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:thitiwut.suk24@gmail.com">
@@ -59,6 +59,10 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 - Analyzed SME procurement data and workflows to identify operational bottlenecks and growth opportunities
 - Translated business requirements into data-driven process improvement strategies
 - Identified opportunities to reduce procurement cycle time by 20–30% while improving operational scalability
+
+**Webull Securities (Thailand)** — *Credit Analyst Intern* (Aug 2026)
+- Reviewed financial documents and flagged risk indicators, achieving 100% policy alignment while partnering with Credit, Compliance, and Operations teams to streamline workflows and cut turnaround time by ~20%
+- Conducted credit risk assessments on high-value loan applications, identifying red flags that reduced potential default exposure and strengthened approval decision accuracy
 
 ---
 
