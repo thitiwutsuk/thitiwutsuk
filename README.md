@@ -50,9 +50,12 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ### 💼 Work Experience
 
-- **LINEMAN WONGNAI** — *Commercial Operations & AI Intern* (Jun 2026 – Jul 2026) · Scaled AI-powered content QC to 5,000+ stores/day with confidence-based routing and human-in-the-loop review
-- **Data Strategy Consulting Club** — *Consultant Analyst, Part Time* (Aug 2025 – Jan 2026) · Analyzed SME procurement workflows, cutting cycle time by 20–30%
-- **Webull Securities (Thailand)** — *Credit Analyst Intern* (Aug 2026) · Reviewed credit risk on high-value loan applications, achieving 100% policy alignment and ~20% faster turnaround
+- **LINEMAN WONGNAI** — *Commercial Operations & AI Intern* (Jun 2026 – Jul 2026) 
+· Scaled AI-powered content QC to 5,000+ stores/day with confidence-based routing and human-in-the-loop review
+- **Data Strategy Consulting Club** — *Consultant Analyst, Part Time* (Aug 2025 – Jan 2026) 
+· Analyzed SME procurement workflows, cutting cycle time by 20–30%
+- **Webull Securities (Thailand)** — *Credit Analyst Intern* (Aug 2026) 
+· Reviewed credit risk on high-value loan applications, achieving 100% policy alignment and ~20% faster turnaround
 
 ---
 
