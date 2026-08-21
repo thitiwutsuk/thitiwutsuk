@@ -89,9 +89,23 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ### 🏆 Awards & Competitions
 
-- 🎯 **Finalist, LMWN Junior Capstone Projects** — AI Sales Role-Play model (dynamic AI personas, automated performance evaluation; projected 20–30% lower onboarding costs, 30–50 training hours saved monthly)
-- 🥈 **2nd Runner-Up, LINE HACK 2025** — AI Fraud Detection for real-time online scam detection across multiple fraud categories
-- 🥇 **1st Place, Government Pension Fund Hackathon 2024** — Wellness Engagement gamified feature
+#### 🥇 1st Place — Government Pension Fund Hackathon 2024
+- **Project:** Wellness Engagement Feature
+- **Key Achievements:**
+  - 🎯 Designed a gamified wellness feature using reward-based mechanics to increase employee engagement
+  - 📈 Analyzed member behavior to optimize feature flows and improve predicted adoption
+
+#### 🥈 2nd Runner-Up — LINE HACK 2025
+- **Project:** AI Fraud Detection
+- **Key Achievements:**
+  - 🎯 Developed an AI-powered fraud detection solution for real-time online scam detection across multiple fraud categories
+  - 📈 Improved detection consistency while reducing manual verification efforts, enabling more scalable fraud case handling
+
+#### 🏅 Finalist — LMWN Junior Capstone Projects
+- **Project:** AI Sales Role-Play Model
+- **Key Achievements:**
+  - 🎯 Developed an AI-powered sales training platform with dynamic AI personas and automated performance evaluation
+  - 📈 Projected to reduce onboarding costs by 20–30%, save 30–50 training hours monthly, and increase practice frequency by 3–5×
 
 ---
 
