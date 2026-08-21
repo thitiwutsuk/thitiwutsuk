@@ -105,7 +105,7 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
   - 🎯 Developed an AI-powered fraud detection solution for real-time online scam detection across multiple fraud categories
   - 📈 Improved detection consistency while reducing manual verification efforts, enabling more scalable fraud case handling
 
-#### 🏅 Finalist — LMWN Junior Capstone Projects
+#### 🎯 Finalist — LMWN Junior Capstone Projects
 - **Project:** AI Sales Role-Play Model
 - **Key Achievements:**
   - 🎯 Developed an AI-powered sales training platform with dynamic AI personas and automated performance evaluation
