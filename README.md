@@ -2,8 +2,8 @@
 <h3 align="center">Data Science student | Machine Learning & AI Enthusiast | Bangkok, Thailand</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/your-github"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/thitiwut-sukthong-28a656364/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/thitiwutsuk"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
   <a href="mailto:thitiwut.suk24@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -11,7 +11,7 @@
 
 ### 🎓 About Me
 
-I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University**, College of Interdisciplinary Studies (GPAX 3.41). I have hands-on experience in machine learning, statistical modeling, and AI applications — building predictive models, engineering features, and applying data-driven methods to forecasting, customer analytics, and AI automation.
+I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University**, College of Interdisciplinary Studies. I have hands-on experience in machine learning, statistical modeling, and AI applications — building predictive models, engineering features, and applying data-driven methods to forecasting, customer analytics, and AI automation.
 
 - 🔭 Currently interning as **Commercial Operations & AI Intern** at **LINEMAN WONGNAI**
 - 🌱 Skilled in **Python, PyTorch, LightGBM, SQL, Scikit-learn**
@@ -54,7 +54,6 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 - **Key Achievements:**
   - 🎯 Engineered a weekly feature set capturing demand patterns from 190K+ transactions
   - 📈 Cut forecast error by 18% WAPE vs. seasonal-naive baseline via walk-forward CV
-- 📚 **Project:** Personal project
 
 #### 📉 Telco Customer Churn Prediction & Risk Segmentation
 - **Description:** Analyzed 7,043 customer records to uncover churn drivers and built a predictive model to flag at-risk customers in advance.
@@ -62,7 +61,6 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 - **Key Achievements:**
   - 🎯 Uncovered a high-risk segment (10.5% of customers) driving 29% of total churn — 2.8x the company average
   - 📈 Built a model correctly catching 74% of actual churners in testing, delivering 5 retention recommendations
-- 📚 **Project:** Personal project
 
 #### 💰 Retail Dynamic Pricing
 - **Description:** Built an end-to-end forecasting-to-pricing pipeline (LSTM vs. SARIMA) on 73K+ retail transactions.
@@ -70,13 +68,12 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 - **Key Achievements:**
   - 🎯 Beat SARIMA with statistically significant accuracy (MASE 0.709 vs. 0.722, p<0.001)
   - 📈 Diagnosed a forecast-accuracy vs. business-outcome tradeoff — the more accurate LSTM performed worse in real inventory simulation (14.4% vs. 11.6% stockout rate)
-- 📚 **Project:** Personal project
 
 ---
 
 ### 🏆 Awards & Competitions
 
-- 🥇 **Finalist, LMWN Junior Capstone Projects** — AI Sales Role-Play model (dynamic AI personas, automated performance evaluation; projected 20–30% lower onboarding costs, 30–50 training hours saved monthly)
+- 🎯 **Finalist, LMWN Junior Capstone Projects** — AI Sales Role-Play model (dynamic AI personas, automated performance evaluation; projected 20–30% lower onboarding costs, 30–50 training hours saved monthly)
 - 🥈 **2nd Runner-Up, LINE HACK 2025** — AI Fraud Detection for real-time online scam detection across multiple fraud categories
 - 🥇 **1st Place, Government Pension Fund Hackathon 2024** — Wellness Engagement gamified feature
 
