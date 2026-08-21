@@ -13,10 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=thitiwutsuk&style=for-the-badge&color=blueviolet" />
-</p>
-
 ---
 
 ### 🎓 About Me
