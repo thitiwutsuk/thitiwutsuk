@@ -1,7 +1,7 @@
 <h1 align="lelf">Hi 👋🏼, I'm Thitiwut Sukthong</h1>
 <h3 align="lelf">Data Science student | Machine Learning & AI Enthusiast | Bangkok, Thailand</h3>
 
-<p align="center">
+<p align="lelf">
   <a href="https://www.linkedin.com/in/thitiwut-sukthong-28a656364/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -85,7 +85,3 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 - 🧑‍🤝‍🧑 **CA-ASE Season 5** — *People Team* (Sep 2025 – Apr 2026) · Managed a national case competition reaching 3,000+ students (655 teams) across Thailand
 
 ---
-
-<p align="center">
-  📍 Bangkok, Thailand &nbsp;|&nbsp; 📞 +66 968450972 &nbsp;|&nbsp; ✉️ thitiwut.suk24@gmail.com
-</p>
