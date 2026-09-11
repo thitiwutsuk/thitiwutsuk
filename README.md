@@ -20,8 +20,6 @@
 I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University**, College of Interdisciplinary Studies. I have hands-on experience in machine learning, statistical modeling, and AI applications — building predictive models, engineering features, and applying data-driven methods to forecasting, customer analytics, and AI automation.
 
 - 🔭 Currently looking for **Data Science / AI internship** opportunities
-- 🌱 Skilled in **Python, PyTorch, LightGBM, SQL, Scikit-learn**
-- 💡 Focused on turning data into practical, scalable AI solutions
 - 📫 Reach me at **thitiwut.suk24@gmail.com**
 
 ---
@@ -60,7 +58,7 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ---
 
-### 💼 Work Experience
+### 💼 Professional Experience
 
 - **Webull Securities (Thailand)** — *Credit Analyst Intern*  (Aug 2026)
 - **LINEMAN WONGNAI** — *Commercial Operations & AI Intern* (Jun 2026 – Jul 2026) 
