@@ -28,23 +28,35 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ### 🛠️ Skills
 
+**Languages & Data**
 <p align="left">
   <img alt="Python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+**Machine Learning & Deep Learning**
+<p align="left">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-000000?style=for-the-badge" />
+  <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-000000?style=for-the-badge" />
+</p>
+
+**LLM & RAG**
+<p align="left">
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img alt="Vector Database" src="https://img.shields.io/badge/Vector%20Database-000000?style=for-the-badge" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge" />
+</p>
+
+**Visualization & Tools**
+<p align="left">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-000000?style=for-the-badge&logo=powerbi&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/Tableau-000000?style=for-the-badge&logo=tableau&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-**Programming & Data:** Python · PyTorch · LightGBM · Feature Engineering · SQL · Scikit-learn
-
-**Machine Learning:** Time Series Forecasting · Logistic Regression · XGBoost · Random Forest
-
-**Statistics & Analytics:** EDA · Statistical Analysis · Hypothesis Testing · Model Evaluation
-
-**Visualization & Tools:** Power BI · Tableau · Git/GitHub
 
 ---
 
