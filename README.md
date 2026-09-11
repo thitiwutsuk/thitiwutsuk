@@ -56,34 +56,10 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ---
 
-### 🚀 Personal Projects
-
-- 📊 **FMCG Weekly Sales Forecasting** — LightGBM demand forecasting on 190K+ transactions, cutting error by 18% WAPE vs. seasonal-naive baseline
-- 📉 **Telco Customer Churn Prediction & Risk Segmentation** — Flagged a high-risk segment driving 29% of churn; model caught 74% of churners in testing
-- 💰 **Retail Dynamic Pricing** — LSTM vs. SARIMA pricing pipeline on 73K+ transactions; uncovered an accuracy-vs-business-outcome tradeoff
-- 🛒 **[Brazilian E-Commerce Dashboard](https://brazilian-e-commerce-f4g54pnlecrcpe78uuhovp.streamlit.app/)** — Streamlit dashboard joining 9 relational datasets (~99K orders) into one order-level table; found delivery delay improves from -5.9 to -13.4 days as review scores rise
-- 📢 **[Ads Campaign Dashboard](https://campaign-dashboard-hojogusrcfkpzhow56trpd.streamlit.app/)** — Reconciled 12,400+ records across CRM, POS, and ad-platform schemas to compute real per-campaign ROAS (1.9x–7.3x); found only 61% of ad-reported conversions reconcile to actual orders
-
----
-
-### 🏆 Awards & Competitions
-
-- 🥇 **1st Place** — Government Pension Fund Hackathon 2024 · *Wellness Engagement Feature*
-- 🥈 **2nd Runner-Up** — LINE HACK 2025 · *AI Fraud Detection*
-- 🎯 **Finalist** — LMWN Junior Capstone Projects · *AI Sales Role-Play Model*
-
----
-
 ### 📜 Certificates
 
 - **Deep Learning Specialization** — [Deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/80YK4CURSJCW)
 - **Databricks Certification** — [Databricks Fundamental](https://credentials.databricks.com/4fdb0061-f7fd-4928-8c99-de2bef020439#acc.GoaDtqw4)
 - **Certified Professional Data Analyst** — [DataRockie](https://badges.parchment.com/public/badges/ivb6xLZ9TlaHKWfnjl09Cg)
-
----
-
-### 🧑‍🤝‍🧑 Leadership & Activities
-
-- 🧑‍🤝‍🧑 **CA-ASE Season 5** — *People Team* (Sep 2025 – Apr 2026) · Managed a national case competition reaching 3,000+ students (655 teams) across Thailand
 
 ---
