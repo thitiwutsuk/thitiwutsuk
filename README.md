@@ -34,8 +34,8 @@ I'm a **Data Science and Innovation** student (Year 3) at **Thammasat University
 
 ### 📜 Certificates
 
-- **Deep Learning Specialization** — [Deeplearning.ai](https://www.coursera.org/account/accomplishments/specialization/80YK4CURSJCW)
-- **Databricks Certification** — [Databricks Fundamental](https://credentials.databricks.com/4fdb0061-f7fd-4928-8c99-de2bef020439#acc.GoaDtqw4)
-- **Certified Professional Data Analyst** — [DataRockie](https://badges.parchment.com/public/badges/ivb6xLZ9TlaHKWfnjl09Cg)
+- **Deeplearning.ai** — [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/80YK4CURSJCW)
+- **Databricks** — [Databricks Fundamental](https://credentials.databricks.com/4fdb0061-f7fd-4928-8c99-de2bef020439#acc.GoaDtqw4) · [Generative AI Fundamentals](https://credentials.databricks.com/3ad4e1e6-a8c0-40f2-9c61-0355a2f2987b)
+- **DataRockie** — [Certified Professional Data Analyst](https://badges.parchment.com/public/badges/ivb6xLZ9TlaHKWfnjl09Cg)
 
 ---
