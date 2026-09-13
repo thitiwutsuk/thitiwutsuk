@@ -1,5 +1,4 @@
 <h1 align="left">Welcome to Thitiwut's GitHub 👋🏼</h1>
-<h3 align="left">Data Science student | Machine Learning & AI Enthusiast | Bangkok, Thailand</h3>
 
 <p align="lelf">
   <a href="https://www.linkedin.com/in/thitiwut-sukthong-28a656364/">
@@ -15,9 +14,7 @@
 
 ---
 
-### 🎓 About Me
-
-I'm a 3rd-year **Data Science and Innovation** student at **Thammasat University** who loves turning messy data into things that actually work. Along the way I've built AI pipelines, automation scripts, and full-stack apps — including a RAG-powered one — using Python, JavaScript, SQL, machine learning, and LLMs, always aiming for real, measurable impact.
+I'm a 3rd-year **Data Science and Innovation** student at **Thammasat University** who loves turning messy **data** into things that actually work. Along the way I've built AI pipelines, automation scripts, and **full-stack AI** apps — including a **RAG**-powered one — using Python, JavaScript, SQL, **machine learning**, and **LLMs**, always ready to learn something new.
 
 - 🔭 Currently looking for **Data Science / AI Engineer or related field internship** opportunities
 - 📫 Reach me at **thitiwut.suk24@gmail.com**
